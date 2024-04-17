@@ -1,1 +1,5 @@
 # ZomatoDashboard
+
+Bengaluru is home to restaurants from all over the world. You can find all types of cuisines in this place, from the United States to Japan, Russia to Antarctica. You name it, Bengaluru has it: delivery, dine-in, pubs, bars, drinks, buffets, and desserts. Restaurants are becoming more numerous every day and the number currently stands at 12,000. Having so many dining establishments, this market has not yet reached aturation. Additionally, new eateries are appearing every day. They now find it challenging to compete with restaurants that have already achieved success. The main problems that they continue to face include high real estate prices, rising food prices, a lack of qualified workers, a disjointed supply chain, and over-licensing.
+
+The Zomato dataset will assist new restaurants in selecting their theme, menus, cuisine, price, etc. for a certain area. Additionally, it looks for culinary similarities among Bengaluru neighborhoods. Reviews for each restaurant are also included in the dataset, which will aid in determining the establishment's overall grade. The data is accurate to that available on the Zomato website until 15 March 2019. 
